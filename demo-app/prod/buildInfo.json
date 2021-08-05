@@ -1,7 +1,7 @@
 {
   "packageVersion": "1.0.0",
-  "buildDate": "2021-08-05 16:44:20 +03",
-  "buildKey": 8483,
+  "buildDate": "2021-08-05 16:57:58 +03",
+  "buildKey": 8220,
   "buildsId": {
     "deviceId": 4166,
     "devFolderName": "dev-4166",
@@ -10,9 +10,9 @@
   "totalFiles": {
     "num": 20,
     "size": 1352449,
-    "forCompressSize": 1330780,
-    "compressedSize": 237577,
-    "percentCompressed": 17.9
+    "forCompressSize": 0,
+    "compressedSize": 0,
+    "percentCompressed": null
   },
   "filesList": [
     {
@@ -43,7 +43,7 @@
     {
       "name": "/index.html",
       "size": 3053,
-      "compressedSize": 1232
+      "compressedSize": 0
     },
     {
       "name": "/logo192.png",
@@ -68,7 +68,7 @@
     {
       "name": "/service-worker.js",
       "size": 46990,
-      "compressedSize": 11625
+      "compressedSize": 0
     },
     {
       "name": "/static",
@@ -83,7 +83,7 @@
     {
       "name": "/static/css/main.59a15ca2.chunk.css",
       "size": 598685,
-      "compressedSize": 50808
+      "compressedSize": 0
     },
     {
       "name": "/static/js",
@@ -93,7 +93,7 @@
     {
       "name": "/static/js/2.ab44254a.chunk.js",
       "size": 645283,
-      "compressedSize": 164830
+      "compressedSize": 0
     },
     {
       "name": "/static/js/2.ab44254a.chunk.js.LICENSE.txt",
@@ -103,17 +103,17 @@
     {
       "name": "/static/js/3.8cfc56ab.chunk.js",
       "size": 3531,
-      "compressedSize": 1243
+      "compressedSize": 0
     },
     {
       "name": "/static/js/main.d4d5b70b.chunk.js",
       "size": 30901,
-      "compressedSize": 6832
+      "compressedSize": 0
     },
     {
       "name": "/static/js/runtime-main.cd830351.js",
       "size": 2337,
-      "compressedSize": 1007
+      "compressedSize": 0
     }
   ]
 }
