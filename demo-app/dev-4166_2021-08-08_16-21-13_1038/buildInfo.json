@@ -1,7 +1,7 @@
 {
   "packageVersion": "1.0.0",
-  "buildDate": "2021-08-08 16:23:29 +03",
-  "buildKey": 3828,
+  "buildDate": "2021-08-08 16:21:13 +03",
+  "buildKey": 1038,
   "buildsId": {
     "deviceId": 4166,
     "devFolderName": "dev-4166",
@@ -101,7 +101,7 @@
       "compressedSize": 0
     },
     {
-      "name": "/static/js/main.2245bf40.chunk.js",
+      "name": "/static/js/main.07d1483a.chunk.js",
       "size": 39511,
       "compressedSize": 0
     },
