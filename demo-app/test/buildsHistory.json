@@ -430,41 +430,5 @@
       "compressedSize": 0,
       "percentCompressed": null
     }
-  },
-  {
-    "buildFolderName": "dev-4166_2021-08-09_18-05-11_1247",
-    "packageVersion": "1.0.0",
-    "buildDate": "2021-08-09 18:05:11 +03",
-    "buildKey": 1247,
-    "buildsId": {
-      "deviceId": 4166,
-      "devFolderName": "dev-4166",
-      "developerName": "Andrey Vyalkov"
-    },
-    "totalFiles": {
-      "num": 19,
-      "size": 1365927,
-      "forCompressSize": 0,
-      "compressedSize": 0,
-      "percentCompressed": null
-    }
-  },
-  {
-    "buildFolderName": "dev-4166_2021-08-14_19-53-48_5394",
-    "packageVersion": "1.0.0",
-    "buildDate": "2021-08-14 19:53:48 +03",
-    "buildKey": 5394,
-    "buildsId": {
-      "deviceId": 4166,
-      "devFolderName": "dev-4166",
-      "developerName": "Andrey Vyalkov"
-    },
-    "totalFiles": {
-      "num": 19,
-      "size": 1367530,
-      "forCompressSize": 0,
-      "compressedSize": 0,
-      "percentCompressed": null
-    }
   }
 ]
